@@ -1,0 +1,2 @@
+# SuiTestnet
+Sui testnet faucet
